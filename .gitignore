@@ -1,0 +1,12 @@
+node_modules/
+.vscode/
+.idea/
+.idea/misc.xml
+.idea/vcs.xml
+.nyc_output
+.nycrc.json
+.DS_Store
+coverage/
+owasp/
+dependency-check-reports/
+dependency-check-bin/
